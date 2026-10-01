@@ -1,0 +1,14 @@
+/* TEAM */
+    Developer/Researcher: Aarushi Bahir
+    Alias: JwtAaru
+    Location: Pune, Maharashtra, India
+    LinkedIn: https://www.linkedin.com/in/jwtaaru
+    TryHackMe: https://tryhackme.com/p/JwtAaru
+
+/* SITE */
+    Last update: 2026/10/01
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3, JSON-LD
+    Components: Font Awesome, Google Fonts (Fira Code, Inter)
+    Ideology: Clean Code, Accessibility, Technical SEO Best Practices

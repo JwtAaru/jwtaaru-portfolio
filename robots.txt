@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jwtaaru.github.io/jwtaaru-portfolio/sitemap.xml

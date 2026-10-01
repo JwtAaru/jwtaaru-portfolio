@@ -1,0 +1,22 @@
+{
+  "name": "Aarushi Bahir | Cybersecurity Portfolio",
+  "short_name": "JwtAaru",
+  "description": "Official portfolio of Aarushi Bahir (JwtAaru) - Junior Pentester & Cybersecurity Researcher based in Pune.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a0d12",
+  "theme_color": "#00ffaa",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
